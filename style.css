@@ -24,7 +24,19 @@ font-style: italic;
 	display: flex;
 	position: relative;
 	justify-content: center;
+	border: 6px solid steelblue;
+
 	
 	
 }
 
+.welcome-message{
+color: steelblue;
+font-size: 25px;
+text-align: center;
+margin: 0 auto;
+text-transform: uppercase;
+padding-bottom: 40px;
+
+
+}
